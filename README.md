@@ -1,5 +1,5 @@
 # CRUD-springmvc-webapp
-mini crud app
+crud app - for test JDBC template 
 # Architecture
 MVC
 # Dependencies
